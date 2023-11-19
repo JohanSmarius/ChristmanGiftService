@@ -1,0 +1,6 @@
+@SantaTest_HostAddress = http://localhost:5023
+
+GET {{SantaTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
